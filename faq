@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ</title>
+</head>
+<body>
+    <h1 style="text-align: center;color: aliceblue;background-color: #023b5e;">FAQ</h1>
+    <hr>
+
+    <ol style="text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+     <li><h2 >What types of courses do you offer?</h2>
+                 
+            <h3>We offer a wide range of courses covering various subjects, including technology, business, languages, arts, and more. You can explore our course catalog to find the courses that best suit your interests and learning goals.</b></h3><hr>
+        <li><h2>How do I enroll in a course?</h2>
+          
+            <h3>To enroll in a course, simply browse our course catalog, select the course you're interested in, and click on the "Enroll" button. Follow the prompts to complete the enrollment process and gain access to the course materials.</h3></li><hr>
+        <li><h2>Are the courses self-paced or instructor-led?</h2>
+          
+            <h3>Our courses offer flexibility, with many being self-paced, allowing you to study at your own pace and schedule. However, we also offer instructor-led courses with scheduled lectures, assignments, and discussions for a more structured learning experience.</h3></li><hr>
+        <li><h2>What is the duration of the courses?</h2>
+          
+            <h3>The duration of our courses varies depending on the subject, complexity, and format. Some courses may span a few weeks, while others may be completed in a single day. You can find the duration of each course listed in the course description.</h3></li><hr>
+        <li><h2>Do you offer certificates upon course completion?</h2>
+         
+            <h3>Yes, we offer certificates of completion for many of our courses. Upon successfully completing a course, you'll receive a digital certificate that you can download and share to showcase your achievement.</h3></li><hr>
+        <li><h2>What are the payment options available?</h2>
+          
+           <h3> We accept various payment methods, including credit/debit cards, PayPal, and bank transfers. Payment options may vary depending on your location and the course you're enrolling in.</h3></li><hr>
+        <li><h2>Do you offer any discounts or financial assistance?</h2>
+          
+           <h3> We occasionally offer discounts, promotions, and scholarship opportunities to make our courses more accessible. Keep an eye on our website and subscribe to our newsletter to stay updated on any special offers.</h3></li><hr>
+            <li><h2>Can I access course materials offline?</h2>
+             
+                <h3>In most cases, course materials are accessible online through our learning platform. However, some courses may offer downloadable materials that you can access offline. Check the course details for more information</h3>.</li><hr>
+
+                    <li><h2>Is technical support available for learners?</h2>
+             
+                <h3>Yes, we provide technical support to assist learners with any issues they may encounter while accessing course materials or using our learning platform. You can reach out to our support team for assistance via email or live chat.</h3></li><hr>
+             <li><h2>How can I contact the instructor or ask questions about the course content?</h2>
+             
+               <h3> Many of our courses include discussion forums or Q&A sections where you can interact with the instructor and fellow learners. Additionally, you can contact our support team, who can help address any questions or concerns you may have.</h3></li>
+    </ol>
+<hr>
+</body>
+</html>
