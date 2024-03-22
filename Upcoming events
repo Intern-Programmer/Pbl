@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upcoming-Events</title>
+</head>
+<body>
+    <h1 style="text-align: center;background-color: #023b5e;color: white;">Upcoming-Events</h1>
+    <hr>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Internet Of Things</h2>
+    <ul style="text-align: center;" >
+    
+        <h3 style="text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;background-color: #023b5e;color: white;">
+            
+        Date : 1st Of January<br>
+        Time : 10:00am To 1:30pm<br>
+        Location : ICEM<br>
+        Description : <br>
+        <p>
+            The <b>Internet of Things (IoT)</b> refers to a network of physical devices, vehicles, home appliances, and other items embedded with sensors, software, and connectivity that enables them to connect and exchange data. The concept behind IoT is to create a smart environment where everyday objects are able to collect and exchange data, leading to improved efficiency, accuracy, and economic benefits.
+         </p>
+        </h3>
+    </ul>
+    <br>
+    
+    <hr>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">DevOps-and-Cloud</h2>
+    <ul style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;color:white;background-color: #023b5e;" >
+        <h3>
+        Date : 1st Of February<br>
+        Time : 10:00am To 1:30pm<br>
+        Location : ICEM<br>
+        Description : <br>
+        <p style="background-color: #023b5e;color: aliceblue;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">DevOps and Cloud Computing two interrelated concepts that have transformed the way software development and IT operations are managed in modern organizations.
+            DevOps is a software development methodology that emphasizes collaboration, communication, automation, and integration between software development and IT operations teams. The primary goal of DevOps is to shorten the software development lifecycle, increase the frequency of software releases, and improve the quality and reliability of software delivery.
+            
+            Cloud computing involves the delivery of computing services—such as servers, storage, databases, networking, software, and analytics—over the internet (the cloud). Instead of owning and maintaining physical hardware and infrastructure, organizations can access these services on-demand from cloud service providers.</p>
+        </h3>
+    </ul>
+    
+    
+     <br>
+    <br>
+    <hr>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Advance Python</h2>
+    <ul style="text-align: center;color: aliceblue;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;background-color: #023b5e;" >
+        <h3>
+        Date : 1st Of March<br>
+        Time : 10:00am To 1:30pm<br>
+        Location : ICEM<br>
+        Description : <br>
+        <p style="background-color: #023b5e;color: aliceblue;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Advance Python language is a very versatile language and it is used in many technical fields. Some fields require only basic knowledge of Python but some fields require you to know advanced Python such as Data Science, Artificial Intelligence and Robotics. In this Advanced Python Tutorial, you will learn about various advanced Python concepts with additional resources, so that you can master yourself in Python programming language.</p>
+        </h3>
+    </ul>
+    
+    <br>
+    <hr>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Full-Stack Development</h2>
+    <ul style="text-align: center;background-color: #023b5e;color: aliceblue;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;" >
+        <h3>
+        Date : 1st Of April<br>
+        Time : 10:00am To 1:30pm<br>
+        Location : ICEM<br>
+        Description : <br>
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #023b5e;color: aliceblue;">Full-stack development refers to the practice of working on both the front-end and back-end aspects of web development. A full-stack developer is proficient in both client-side and server-side technologies, allowing them to build complete web applications independently or as part of a team.</p>
+        </h3>
+    </ul>
+   
+    <br>
+    <hr>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">iOS Application</h2>
+    <ul style="text-align: center;background-color: #023b5e;color: aliceblue;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;" >
+        <h3>
+        Date : 1st Of May<br>
+        Time : 10:00am To 1:30pm<br>
+        Location : ICEM<br>
+        Description : <br>
+        <p>iOS ( iPhone OS) is a mobile operating system developed by Apple Inc. exclusively for its smartphones. It was unveiled in January 2007 for the first-generation iPhone, launched in June 2007. It is the operating system that powers many of the company's mobile devices, including the iPhone. It was also used on iPads (introduced: January 2010; availability: April 2010) until iPadOS was introduced in 2019, and on the iPod Touch devices, which were discontinued in mid-2022. It is the world's second-most widely installed mobile operating system, after Android. It is the basis for three other operating systems made by Apple: iPadOS, tvOS, and watchOS.
+
+        </p>
+        </h3>
+    </ul>
+    <br>
+    <hr>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Aptitude Training(Logical Reasoning)</h2>
+    <ul style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;color: aliceblue;background-color: #023b5e;" >
+        <h3>
+        Date : 1st Of June<br>
+        Time : 10:00am To 1:30pm<br>
+        Location : ICEM<br>
+        Description : <br>
+        <p>An Aptitude Training tests are increasingly being used in recruitment to help the hiring managers streamline their applicants. The accuracy and efficiency of these tests in comparison to other recruitment methods, such as interviewing, have made them extremely popular. An aptitude test measures a candidates skills, professional attitude, abilities, and personality traits. They involve a combination of math, verbal concepts, abstract thinking, and others. To successfully crack these tests, one needs suitable training. If you are searching for “aptitude coaching near me,” you have come to the right place. Being a leading business listing platform, 3RI Technologies brings you in contact with several reputed aptitude coaching centers located in your neighborhood. To get started, all you have to do is fill up a simple online form given above. Mention your precise requirements to help our 3RI Technologies advisors gauge your needs. Based on the information provided by you, our consultants will send you a list of the most suitable service providers in your area. You can check out the training services offered by these service providers to shortlist the best one. Aptitude training is a special kind of coaching that helps to boost a candidates cognitive abilities, personality, attitude, and knowledge. Aptitude tests have become very common in the modern recruitment industry. Almost every renowned organization uses these tests to filter the best candidates for their job vacancies. The results obtained from these tests are a strong predictor of how an employee will perform under different circumstances. Robust aptitude training can help the candidates in successfully clearing these tests.</p>
+        </h3>
+    </ul>
+    <hr>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Technical Training (Placement)</h2>
+    <ul style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;background-color: #023b5e;color: aliceblue;" >
+        <h3>
+        Date : 1st Of July<br>
+        Time : 10:00am To 1:30pm<br>
+        Location : ICEM<br>
+        Description : <br>
+        <p>Technical Training for placement exams involves preparing for specific technical subjects and topics that are commonly assessed during recruitment processes. These days, the majority of institutions have partnerships with both private and public sectors that frequently search for young talent and invite them to the campus to recruit students for their business. However, while being easy, placement is actually highly competitive, therefore it is crucial to be well-prepared. A competent engineer must be the ideal synthesis of knowledge from his field and practical life skills. Life skills significantly refine the behaviour of professionals and engineers, preparing them for change in their professional work, job market strategies, and ultimately their approach to life. Training engineering students to push them into their career is most important task, an engineering college has to take. Our department assess every student and direct them towards their goal by giving required and following trainings. In addition to helping engineering students develop their technical skills, practical training also helps them develop their soft skills. Additionally, by teaching students how to work together, these training programmes help them develop their leadership skills. So, we adopt following training to our students.</p>
+        </h3>
+    </ul>
+    <br>
+    <hr>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Language Training (Japanese)</h2>
+    <ul style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;color: aliceblue;background-color: #023b5e;" >
+        <h3>
+        Date : 1st Of July<br>
+        Time : 10:00am To 1:30pm<br>
+        Location : ICEM<br>
+        Description : <br>
+        <p>Language Training can encompass various aspects, including learning a new language, improving proficiency in a language you already know, or developing specific language skills for academic, professional, or personal purposes.</p>
+        </h3>
+    </ul>
+    <br>
+    <hr>
+</body>
+</html>
