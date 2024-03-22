@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Refund Policy</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+    <h1 class="pp1">Refund Policy</h1>
+    <h2 class="h2">Refund Policy</h2>
+    <p class="p1">Students are requested not to pay any extra amount apart from the requisite fee. Under extraordinary conditions fees will be refunded.
+
+        Application Fee and Admission Fee are non-refundable.</p>
+    <p class="p1"><b>Tuition Fee : </b>If a student accepts the admission offer and completes the admission formalities but withdraws before registration, 80% of the first installment of first semester tuition fee is refundable. If a student withdraws within one week after the registration, only 50% of the first installment of the first semester tuition fee is refundable. If a student withdraws after one week of registration, no tuition fee is refundable.</p>
+    <p class="p1"><b>Hostel Fee : </b>If a student opts not to avail the hostel facility after paying the hostel fee and if the request for the same is received before the commencement of the semester, 90% of the semester’s hostel fee is refundable. If request for not availing the hostel facility is received within one week after the commencement of the semester, 50% of the semester’s hostel fee is refundable. If request for not availing the hostel facility is received after one week of the commencement of the semester, the entire first semester’s hostel fee is nonrefundable.</p>
+    <p class="p1"><b>Transport Fee : </b>If a student opts not to avail the transport facility after paying the Transport fee and if the request for the same is received before the commencement of the semester, 90% of the semester’s Transport fee is refundable. If request for not availing the transport facility is received within two weeks after the commencement of the semester, 50% of the semester’s Transport fee is refundable. If request for not availing the transport facility is received after two weeks of the commencement of the semester , the entire first semester’s Transport fee is nonrefundable.
+    </p>
+</body>
+</html>
