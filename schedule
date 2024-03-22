@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule</title>
+</head>
+<body>
+    <br>
+    <table border="1px" width="60%" align="center">
+        <tr style="text-align: centre;" bgcolor="#3dac78">
+            <th>Training Date</th>
+            <th>Training Type</th>
+            <th>Content</th>
+            <th>No. of Hours</th>
+            <th>Trainer</th>
+        </tr>
+
+        <tr style="text-align: center;" bgcolor="#dad7cd">
+            <td>1st January </td>
+            <td>Online</td>
+            <td>Internet Of Things</td>
+            <td>30</td>
+            <td>Kia</td>
+        </tr>
+
+        <tr  style="text-align: center;" bgcolor="#dad7cd">
+            <td>1st February </td>
+            <td>Offline</td>
+            <td>DevOps-and-Cloud Computing</td>
+            <td>25</td>
+            <td>Nishant</td>
+        </tr>
+
+        <tr  style="text-align: center;" bgcolor="#dad7cd">
+            <td>1st March </td>
+            <td>Offline</td>
+            <td>Advance Python</td>
+            <td>40</td>
+            <td>Vinamra</td>
+        </tr>
+        <tr  style="text-align: center;" bgcolor="#dad7cd">
+            <td>1st April </td>
+            <td>Online</td>
+            <td>Full-Stack Development</td>
+            <td>20</td>
+            <td>Cliford</td>
+        </tr>
+        <tr  style="text-align: center;" bgcolor="#dad7cd">
+            <td>1st May </td>
+            <td>Offline</td>
+            <td>iOS Application</td>
+            <td>30</td>
+            <td>Yash</td>
+        </tr>
+        <tr  style="text-align: center;" bgcolor="#dad7cd">
+            <td>1st June </td>
+            <td>Offline</td>
+            <td>Aptitude Training</td>
+            <td>25</td>
+            <td>Zamsu</td>
+        </tr>
+        <tr  style="text-align: center;" bgcolor="#dad7cd">
+            <td>1st July </td>
+            <td>Online</td>
+            <td>Technical Training</td>
+            <td>15</td>
+            <td>Purva</td>
+        </tr>
+        <tr  style="text-align: center;" bgcolor="#dad7cd">
+            <td>1st  August </td>
+            <td>Online</td>
+            <td>Language Training</td>
+            <td>100</td>
+            <td>Jigyaasa</td>
+        </tr>
+    </table>
+
+</body>
+</html>
