@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+</head>
+<body>
+    <h1 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;background-color: #023b5e;color: aliceblue;">About Us</h1>
+    <hr>
+    <br>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Indira College of Engineering & Management</h2>
+    <img src="ICEM campus.jpg" alt="This Is An Image" width="100%">
+    <br>
+    
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Indira College of Engineering and Management (ICEM), Pune is an AICTE approved engineering college in Pune, established in 2007 under the umbrella of Indira Group of Institutes. The institute is approved by All India Council of Technical Education (AICTE), New Delhi, recognized by Government of Maharashtra and is affiliated to SavitribaiPhule, Pune University. If you are looking for engineering admission to an engineering college in Pune, then ICEM is a wise choice.</p>
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+            ICEM, one of the best NAAC accredited engineering colleges in Pune, has laid its foundation in the serene and picturesque settings of Parandwadi Village of Maval Taluka, which was then dried in terms of educational and infrastructural facilities. With the untiring efforts of the management, this college has been successful in creating educational and economic possibilities in the adjacent rural areas. The college offers a stress-free process for engineering admission with reasonable engineering admission fees, thus helping the locals. It has also made possible positive results in empowering people from surrounding rural communities and has been a torch-bearer in providing the refined education system.
+        </p>
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+            Indira College of Engineering and Management, Pune is one of the engineering colleges in Pune, which constitutes of 1500+ students pursuing their UG and PG degree in Engineering and Management courses. The process for engineering admission is straightforward at ICEM, and it also has a reasonable engineering admission fees. At present, the college offers undergraduate engineering programs, namely Civil Engineering, Computer Engineering, Mechanical Engineering, and post-graduate Engineering and Management programs, namely M.E in Electronics & Telecommunication Engineering- Specialization: Communication Network, M.E in Mechanical Engineering Specialization: Heat Power, M.E in Computer Engineering.
+        </p>
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+            Indira College of Engineering Management, Pune has maintained a perfect balance between the theory and the practical aspects of the learning process, with the theoretical inputs being adequately supplemented by functional components as case studies, fieldwork, industry visits, interaction with professionals, and project study. Several industrial tours organized by the institute help the students get exposed to industry practices, skills demanded, management practices, industry expectations, and market opportunities. Such Industry Institute Interaction keeps the students abreast with the latest technology to help them meet the competitive standards of the industry. ICEM is thus the best engineering college in Pune, empowering students for life.
+        </p>
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+            The students are selected for scholar clubs based on their past performance in academics. They are given exceptional inputs in Academic Excellence, Interpersonal Skills enhancement, Entrepreneurship, Career Awareness, Ethics, Etiquette, and Presentation Skills.
+        </p>
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+            The Distinct features that make Indira College of Engineering and Management Pune one of the best NAAC accredited engineering colleges are the skilled pathfinders along with Strong Industry Institute Interaction and MoU’s with the University Of Nottingham, Malaysia, and several Industries.
+        </p>
+    
+    <br>
+    <hr>
+    <br>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Shree Chanakya Education Society</h2>
+    <img src="icem institute.jpg" alt="This Is An Image" width="100%">
+    
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">The Shree Chanakya Education Society (SCES) was established in February 1994, under the visionary leadership of Dr. Tarita Shankar, with the aim of providing top quality post-graduate education in the ﬁelds of Business Management, International Business and Information Technology. By consistently providing quality education over the past few decades, institutes at Indira Group is now considered as one of the best institutes in Pune. At a time when India was struggling to put its economy back on its feet, after the nation having pawned the “family jewels” just to keep aﬂoat, Dr. Tarita Shankar sensed that education too would have to become more broad based and more vocational in nature if India was to stand up to the world competition in quality and price for its products, The then Finance Minister had prescribed for the economy and so, in 1994, began a saga of growth and quality in education; a story that is just reaching its zenith with 14 full ﬂedged Institutes registering a strong presence on Pune’s educational horizon. Since inception, the Institutes managed by SCES, have maintained high academic standards and have successfully provided trained manpower to the industrial and services sector of the country. These institutes are now listed amongst the top colleges not just in Pune, but also in Maharashtra and India. With a modest strength of 60 students pursuing a single course, SCES has grown steadily and today boasts of 14 Institutes, having more than 8000 students from all over India pursuing multi-disciplinary, graduate & post-graduate programs. The objective of the institute is providing ‘Management education in a corporate environment’, has been possible due to the sincere and dedicated efforts of the members of SCES, who have invaluable experience in varied areas like academics, industry, service and social-world.</p>
+    
+    <br>
+    <hr>
+    <br>
+    <h2 style="text-align: center;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Indira Group of Institutes</h2>
+    <img src="icem campus school.jpeg" alt="This Is An Image" width="100%">
+    
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Shree Chanakya Education Society’s “Indira Group of Institutes”, Pune was established in 1994, with the explicit vision to provide sustainable impetus to the corporate and entrepreneurial abilities in the youth. The realization that a robust framework of education is indispensable for the growth of global leaders, the visionary, Dr. Tarita Shankar, Chairperson, Indira Group, integrated her pursuit of excellence and articulated educational institutions, known as Indira Group of Institutes (IGI), which imbibe human excellence and demonstrate strong social values, with a single minded pursuit of developing the youth to become business leaders.</p>
+        <p style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Unrelenting initiatives by the management team at Indira led to adding of multi-disciplines such as Management, Information Technology, Pharmacy, Commerce, Science, Engineering and Mass Communication to the group and growth has been as deep as it has been wide. With 12 institutions, IGI now offers education right from Kindergarten to Doctorate level studies. IGI believes in the economic independence of individuals. In this endeavor we aim to inspire our post graduate students to create a niche for themselves in the Indian Economic order ﬁrst, and then compete globally. We owe our gratitude to the Indian Industry for consistently collaborating with us in this endeavor. Renowned industrialists have visited us and tremendously enhanced the morale of our students by sharing their vast knowledge and experience about entrepreneurial opportunities and foster a spirit of entrepreneurship amongst students.</p>
+    
+    <br>
+    <h2 style="text-align: center;">Having traversed the journey of twenty-ﬁve years we have ourselves made certain signiﬁcant achievements which, we are aware, are but the building blocks for achieving further heights.</h2>
+    <br>
+    
+    <ul style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+        <li>Indira is ranked amongst the top 2 B-schools in Pune, by the prestigious AIMA – IMJ</li>
+        <li>The same journal gave us a top 30, all India ranking on the parameters of Industry interface.</li>
+        <li>Our students have shown good academic results and have been at the level of university ranking.</li>
+        <li>The achievements of our students have enabled them to attract some of the best corporate recruiters.</li>
+        <li>Indira Group of Institutes and our goodwill has enabled us to establish campus agreement with Microsoft for using different software.</li>
+        <li>Our goodwill with Microsoft was further accentuated with Microsoft conducting workshops at Indira, for train the trainer modules.</li>
+        <li>Business India has also ranked us amongst the top 3 educational institute in Pune from 2 consecutive years</li>
+        <li>Our Institutes have received accreditation from various certifying bodies</li>
+        <li>Indira Institute of Management was the ﬁrst management institute in Maharashtra to receive the accreditation from the NBA, New Delhi.</li>
+        <li>We also have our audiovisual centers supported by Harvard Business School , Stanford, Pyramid Media and Tom Peters Company and we have vast collection of titles.</li>
+    </ul>
+    
+    <br>
+    <hr>
+    <br>
+    <h2 style="text-align: center;">AWARDS & ACCOLADES</h2>
+    <img src="award.jpg" alt="This Is An Image" width="100%">
+    
+        <ul style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+            <li>Dr Tarita Shankar has always believed that her work speaks for itself. She has been a recipient of numerous awards and citations over the last two decades on the national and international level. A few prestigious ones being:</li>
+            <li>Exemplary Leader Award at the Asian Leadership Awards at Dubai on 11th Oct 2023.
+                Care Club For Social Welfare Award on 13th July 2023 at the National Awards For Excellence (10th Edition), Mumbai, India.</li>
+            <li>Leader With A Social Heart- Golden Globe Tigers Awards (11th Edition)- Kuala Lumpur, Malaysia on 16th May 2023.</li>
+            <li>Winner-Exceptional Women Awards 2022-23 at Mumbai, India.</li>
+            <li>Featured in ET Newsmakers-Women’s Special on occasion of International Women’s Day on 8th March 2023.</li>
+            <li>Care Club-NGO Leadership Award at World CSR Congress Awards-2023 on 18th February 2023 at Mumbai, India.</li>
+            <li>Education Leadership Award at the Business Leader Of The Year Awards-2023 on 17th February 2023 at Mumbai, India.</li>
+            <li>Women Leader of the Year, at the Business Leaders of the World Awards-20th Global Edition & 5th India Edition-21st March, 2022 at Mumbai, India.</li>
+            <li>Global Women Excellence Award at the prestigious CMO Asia Awards, Singapore- 17th August 2023 and many more....</li>
+            <li>As Dr Tarita Shankar says “Awards are a recognition of your achievements, however what matters more is your lasting, positive impact on the thoughts of the people that you work with, a sense of fulfilment that your work is improving the quality of others’ lives.</li>
+        </ul>
+    
+    <br>
+    <hr>
+    
+</body>
+</html>
